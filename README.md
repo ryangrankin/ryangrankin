@@ -5,7 +5,7 @@ I'm a 4th year student at the **University of Hawaiʻi at Mānoa**, double major
 
 I love learning new things, figuring out how things work, and building projects that bring different ideas together. My two majors might seem pretty different, but that's actually what I enjoy most about them. Computer Science gives me the tools to build technology, while American Studies encourages me to ask questions about who that technology serves, how it shapes our lives, and why those things matter.
 
-I'm especially interested in the space where **technology, culture, and people intersect**.
+I'm especially interested in the space where **technology, culture, and people** intersect.
 
 ## 💻 What I've Been Building
 
