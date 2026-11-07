@@ -9,8 +9,6 @@ I'm especially interested in the space where **technology, culture, and people**
 
 ## 💻 What I've Been Building
 
-A lot of my projects start with a simple question: *Wouldn't it be cool if this existed?*
-
 - **Korea-Go:** A Korean language learning app designed around practical travel scenarios, cultural learning, and interactive lessons.
 - **Hip-Hop Archive:** An interactive exploration of hip-hop history, artist connections, and the cultural influence of the genre.
 - **Vermont Biodiversity:** An educational platform developed in collaboration with students to encourage engagement with local wildlife and the environment.
