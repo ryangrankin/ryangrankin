@@ -47,8 +47,3 @@ I'm also a co-founder and President of **Campus Connections**, a student organiz
 
 I really enjoy meeting people with different backgrounds and perspectives. Some of my favorite experiences have come from working with people who approach problems completely differently than I do.
 
-## 🤝 Let's Connect!
-
-I'm always interested in meeting new people, collaborating on projects, and learning from others.
-
-Whether it's software development, technology ethics, digital humanities, or just an interesting idea, I'd love to connect!
