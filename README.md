@@ -45,3 +45,4 @@ I'm also a co-founder and President of **Campus Connections**, a student organiz
 
 I really enjoy meeting people with different backgrounds and perspectives. Some of my favorite experiences have come from working with people who approach problems completely differently than I do.
 
+**Looking ahead**: I'm interested in growing into technical project management, where I can combine my software development background with my love for collaboration, problem-solving, and bringing people together. In the meantime, I'm excited to keep building my technical skills, contributing to engineering teams, and learning as much as I can along the way.
