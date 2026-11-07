@@ -1,8 +1,7 @@
-## Hi there 👋
 
 # Hi, I'm Ryan! 👋
 
-I'm a student at the **University of Hawaiʻi at Mānoa**, double majoring in **Information & Computer Sciences** and **American Studies**.
+I'm a 4th year student at the **University of Hawaiʻi at Mānoa**, double majoring in **Information & Computer Sciences** and **American Studies**.
 
 I love learning new things, figuring out how things work, and building projects that bring different ideas together. My two majors might seem pretty different, but that's actually what I enjoy most about them. Computer Science gives me the tools to build technology, while American Studies encourages me to ask questions about who that technology serves, how it shapes our lives, and why those things matter.
 
