@@ -9,6 +9,7 @@ I'm especially interested in the space where **technology, culture, and people**
 
 ## 💻 What I've Been Building
 
+- **CodeBloom:** A Duolingo inspired C/C++ learning application designed to further my skills in Expo and React native. 
 - **Korea-Go:** A Korean language learning app designed around practical travel scenarios, cultural learning, and interactive lessons.
 - **Hip-Hop Archive:** An interactive exploration of hip-hop history, artist connections, and the cultural influence of the genre.
 - **Vermont Biodiversity:** An educational platform developed in collaboration with students to encourage engagement with local wildlife and the environment.
